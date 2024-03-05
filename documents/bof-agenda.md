@@ -9,7 +9,7 @@
 
 * Introduction (Chairs) - 10m
 * Traffic policing in networks: goals and methods (Marcus Ihlar) - 15m
-* Lessons from IETF history (Brian Trammell) - 15m
 * Solution space and trials (Matt Joras) - 15m
-* Discussion on use case and scope (Everyone) - 55m
+* Lessons from IETF history (Brian Trammell) - 10m
+* Discussion on use case and scope (Everyone) - 60m
 * Conclusions (Chairs) - 10m
